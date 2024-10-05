@@ -1,5 +1,5 @@
 # task-management
-# SPA Authentication using Laravel 9 Sanctum, Vue 3 and Vite
+# SPA Authentication using Laravel 11 Sanctum, Vue 3 and Vite
 
 ```
 composer install
